@@ -17,14 +17,19 @@ Welcome to my GitHub profile! I'm currently learning backend development and bui
   <a href="https://www.boot.dev/certificates/e81c6d75-23c3-4d7e-afb6-ba5801ea705c">
     <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/e81c6d75-23c3-4d7e-afb6-ba5801ea705c.jpeg?v=1788391548" alt="Boot.dev Learn Linux Certificate" width="450" />
   </a>
-  <!-- 3. Build a BookBot in Python -->
+  <!-- 3. Build a BookBot in Python --> 
   <a href="https://www.boot.dev/certificates/085658cd-d02f-4288-be8b-52046095a153">
-    <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/085658cd-d02f-4288-be8b-52046095a153.jpeg?v=1788916244" alt="Boot.dev Build a BookBot in Python Certificate" width="450" />
-  </a>
-</p>
+  <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/085658cd-d02f-4288-be8b-52046095a153.jpeg?v=1788916244" alt="Boot.dev Build a BookBot in Python Certificate" width="450" /> 
+</a> 
+  <!-- 4. Learn Git --> 
+  <a href="https://www.boot.dev/certificates/fbd1ba48-1447-4d3e-929d-e2ea9003ee10"> 
+    <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/fbd1ba48-1447-4d3e-929d-e2ea9003ee10.jpeg?v=1792272869" alt="Boot.dev Learn Git Certificate" width="450" /> 
+  </a> 
+</p> 
 
----
+--- 
 
 ### 🛠️ Languages & Tools
-- **Languages:** Python, Bash
+
+- **Languages:** Python, Bash 
 - **OS & Tools:** Linux, Git, GitHub
