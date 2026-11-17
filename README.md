@@ -25,6 +25,10 @@ Welcome to my GitHub profile! I'm currently learning backend development and bui
   <a href="https://www.boot.dev/certificates/fbd1ba48-1447-4d3e-929d-e2ea9003ee10"> 
     <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/fbd1ba48-1447-4d3e-929d-e2ea9003ee10.jpeg?v=1792272869" alt="Boot.dev Learn Git Certificate" width="450" /> 
   </a> 
+  <!-- 5. Learn Object Oriented Programming in Python --> 
+  <a href="https://www.boot.dev/certificates/5990611e-3f33-4557-b885-80281f72a94c"> 
+    <img src="https://api.boot.dev/v1/static/certificate/5990611e-3f33-4557-b885-80281f72a94c" alt="Boot.dev Learn Object Oriented Programming in Python Certificate" width="450" /> 
+  </a>
 </p> 
 
 --- 
